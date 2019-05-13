@@ -11,6 +11,6 @@ def subtract(a,b):
 num1 = input('Enter first number: ')
 num2 = input('Enter second number: ')
 
-print("num1: ", num1, " num2: ", num2)
+print("First number: ", num1, " Second number: ", num2)
 add(num1, num2)
 subtract(num1,num2)
